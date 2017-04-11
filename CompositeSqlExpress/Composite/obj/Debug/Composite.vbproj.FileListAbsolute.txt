@@ -1,0 +1,9 @@
+f:\users\pablo\documents\visual studio 2013\Projects\Composite\Composite\obj\Debug\Composite.Resources.resources
+f:\users\pablo\documents\visual studio 2013\Projects\Composite\Composite\obj\Debug\Composite.vbproj.GenerateResource.Cache
+f:\users\pablo\documents\visual studio 2013\Projects\Composite\Composite\bin\Composite.dll.config
+f:\users\pablo\documents\visual studio 2013\Projects\Composite\Composite\bin\Composite.dll
+f:\users\pablo\documents\visual studio 2013\Projects\Composite\Composite\bin\Composite.pdb
+f:\users\pablo\documents\visual studio 2013\Projects\Composite\Composite\bin\Composite.xml
+f:\users\pablo\documents\visual studio 2013\Projects\Composite\Composite\obj\Debug\Composite.dll
+f:\users\pablo\documents\visual studio 2013\Projects\Composite\Composite\obj\Debug\Composite.xml
+f:\users\pablo\documents\visual studio 2013\Projects\Composite\Composite\obj\Debug\Composite.pdb

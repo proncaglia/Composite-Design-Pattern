@@ -1,0 +1,19 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <XD>
+    <idcliente>505</idcliente>
+    <idperfil>1</idperfil>
+    <ididioma>2</ididioma>
+    <iddireccion>4</iddireccion>
+    <idtelefono>1</idtelefono>
+    <nombreusuario>pablo</nombreusuario>
+    <clave>21232f297a57a5a743894a0e4a801fc3</clave>
+    <nombre>Pablo</nombre>
+    <apellido>Roncaglia</apellido>
+    <email>pabloroncaglia@gmail.com</email>
+    <CUIT>20301145412</CUIT>
+    <razon_social>abc</razon_social>
+    <fecha_alta>2015-11-01T14:27:05.02-03:00</fecha_alta>
+    <estado>0</estado>
+  </XD>
+</NewDataSet>
